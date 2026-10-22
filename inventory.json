@@ -1,0 +1,17 @@
+[
+    {
+        "product_id": "P001",
+        "name": "Notebook",
+        "price": "50",
+        "quantity": 10,
+        "product_type": "standard"
+    },
+    {
+        "product_id": "P002",
+        "name": "Milk",
+        "price": "30",
+        "quantity": 5,
+        "product_type": "perishable",
+        "expiry_date": "2026-10-30"
+    }
+]
